@@ -4,7 +4,7 @@
 ## Estrutura da primeira aula:
 
 - Contexto teórico;
-- Instalação e configuração inicial ;
-- Primeiros comandos apresentados;
+- Instalação e configuração inicial;
+- Primeiros comandos apresentados.
 
 
