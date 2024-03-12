@@ -13,6 +13,8 @@
 - Contexto teórico;
 - Instalação e configuração inicial;
 - Primeiros comandos apresentados.
+- Criação de um arquivo de código que retorna os números ímpares de um Array em JavaScript.
+
 
 ## Estrutura da segunda aula:
 - Commits
