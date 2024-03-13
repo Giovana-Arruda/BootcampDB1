@@ -1,5 +1,6 @@
 # Repositório da Primeira Aula de Versionamento. 
 
+
 ## Estrutura da primeira aula:
 
 - Contexto Histórico;
@@ -18,3 +19,5 @@
 ## Estrutura da segunda aula:
 - Commits
 - Criação de novas branches
+
+
