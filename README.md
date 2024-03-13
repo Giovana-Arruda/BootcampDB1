@@ -18,5 +18,6 @@
 
 ## Estrutura da segunda aula:
 - Commits
+- Criação de novas branches
 
 
