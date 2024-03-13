@@ -3,7 +3,7 @@
 
 const { number } = require("yargs");
 
-const arrayNum = [9, 4, 5, 10, 54 , 88 , 2, 90, 8, 6, 33];
+const arrayNum = [9, 4, 5, 10, 54 , 88 , 2, 90, 8, 6, 33, 87, 24, 45, 7633];
 
 const maioresde20 = arrayNum.filter((number) => number > 20);
 console.log("Os números maiores de vinte são:", maioresde20)
