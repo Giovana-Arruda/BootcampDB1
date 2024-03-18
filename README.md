@@ -24,5 +24,3 @@
 ## Estrutura da terceira aula:
 
 -Git Log
--Merge 
--Conflitos
