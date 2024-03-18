@@ -20,3 +20,7 @@
 - Commits
 - Criação de novas branches
 - Pull Request
+
+## Estrutura da terceira aula:
+
+-Git Log
