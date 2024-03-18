@@ -1,5 +1,5 @@
 
-const arrayNum = [2, 4, 3, 1, 6, 7, 9];
+const arrayNum = [9,8,0,6,7,50,2,1,32];
 
 let soma = 0;
 
