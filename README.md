@@ -23,4 +23,7 @@
 
 ## Estrutura da terceira aula:
 
--Git Log
+- Git Log
+- Merge
+- Conflitos
+- CherryPick
